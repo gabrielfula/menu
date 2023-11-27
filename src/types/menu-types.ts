@@ -1,5 +1,5 @@
 export type MenuType = {
-  id: number;
+  id?: number;
   title: string;
   desc?: string;
   img?: string;
